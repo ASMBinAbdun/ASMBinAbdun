@@ -25,9 +25,8 @@ My name is Amr and I'm passionate about Tech and a huge Cybersecurity/Cloud Secu
 - 🔭 I’m currently working on Cybersecurity projects
 - 🌱 I’m currently learning Cybersecurity and Cloud Security
 - 📫 You can reach me on LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/amr-mohamad06173)
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/amr-mohamad06173
 
 
